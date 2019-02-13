@@ -5,33 +5,41 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
+
+// extends -- employee is a subclass of person
 public class Employee extends Person
 {
-    protected double payment = 300;
+    // set the default value for salary
+    private double salary = 300;
     
-    public Employee(){
-        super();
-    }
-    
-     public Employee(String _name, String _id, int _age)
-     {
+    public Employee(String _name, String _id, int _age)
+    {
          super(_name, _id, _age); // call the super constructor & pass in the appropriate values
     }
+    public Employee()
+    {
+        super();
+        salary = 350;
+    }
     public void work() // a new method, only in Employee
+    // getName is inherited from the superclass person
     {
         System.out.print(getName() + " is working.\n"); // a new print statement
     }
     
-    public double getSalary(){
-        return payment;
+    // get salary method
+    public double getSalary()
+    {
+        return salary;
     }
-    
-    public void setSalary(double newSalary) {
-        payment = newSalary;
+    // set salary method
+    public void setSalary(double newSalary)
+    {
+        salary=newSalary;
     }
-    
-    public void isPaid(){
-        System.out.println("Employee " 
-        +getName() + " is payed on a hourly wage of : " + getSalary());
+    public void isPaid()
+    {
+        System.out.println(getName() + "'s Salary is " + getSalary());
     }
+
 }
