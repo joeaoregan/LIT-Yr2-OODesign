@@ -16,7 +16,8 @@ public class Staff extends Employee
     public Staff()
     {
         // initialise instance variables
-        x = 0;
+        super();
+        setSalary(300.0);
     }
 
     /**
