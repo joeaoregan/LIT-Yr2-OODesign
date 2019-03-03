@@ -18,4 +18,8 @@ public class Door
         // initialise instance variables
         name="door";
     }
+    public void doorOpen()
+    {
+        System.out.println(name + " is open");
+    }
 }

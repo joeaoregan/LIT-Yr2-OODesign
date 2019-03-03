@@ -4,6 +4,9 @@ public class TestLift extends LiftSystem
     {
         Button B1 = new Button();
         B1.lightOn();
+        B1.lightOff();
+        Door D1 = new Door();
+        D1.doorOpen();
         
     }    
 }
