@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Button()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Button\r\n
+comment1.params=
+comment1.target=void\ lightOn()
+comment2.params=
+comment2.target=void\ lightOff()
+numComments=3

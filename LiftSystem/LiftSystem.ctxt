@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LiftSystem()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LiftSystem\r\n
+comment1.params=
+comment1.target=void\ floorRequest()
+comment2.params=
+comment2.target=void\ openDoor()
+comment3.params=
+comment3.target=void\ closeDoor()
+numComments=4
