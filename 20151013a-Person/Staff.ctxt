@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=_name\ _id\ _age
+comment0.target=Staff(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=Staff()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Staff\r\n
+comment2.params=
+comment2.target=void\ isPaid()
+numComments=3

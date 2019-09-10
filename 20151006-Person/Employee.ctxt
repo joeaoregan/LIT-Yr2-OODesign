@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=_name\ _id\ _age
+comment0.target=Employee(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ work()
+numComments=2
