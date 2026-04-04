@@ -131,17 +131,28 @@ Then
 
 ## Tutorials
 
-![Person UML Diagram](https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/person-uml.png?raw=true)
+<details closed>
+<summary><b>Screenshots: </b>BlueJ UML Diagrams<br/>
+<div style="height: 160px; overflow: hidden;">
+<img src="https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/person-uml.png?raw=true" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/student-uml.png?raw=true" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/hotel-uml.png?raw=true" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/lift-system-uml.png?raw=true" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/ca-uml.png?raw=true" style="height: 160px; width: auto; object-fit: cover;"/>
+</div>
+<p>Click here for larger images.</p>
+</summary>
+<img src="https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/person-uml.png?raw=true" title="BlueJ Person UML Diagram"/>
 <h6>BlueJ Person UML Diagram</h6>
-
-![Student UML Diagram](https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/student-uml.png?raw=true)
+<img src="https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/student-uml.png?raw=true" title="BlueJ Student UML Diagram"/>
 <h6>BlueJ Student UML Diagram</h6>
-
-![Hotel UML Diagram](https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/hotel-uml.png?raw=true)
+<img src="https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/hotel-uml.png?raw=true" title="BlueJ Hotel UML Diagram"/>
 <h6>BlueJ Hotel UML Diagram</h6>
-
-![Lift System UML Diagram](https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/lift-system-uml.png?raw=true)
+<img src="https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/lift-system-uml.png?raw=true" title="BlueJ Lift System UML Diagram"/>
 <h6>BlueJ Lift System UML Diagram</h6>
+<img src="https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/ca-uml.png?raw=true" title="BlueJ Space Invaders UML Diagram"/>
+<h6>BlueJ Space Invaders UML Diagram</h6>
+</details>
 
 ## Links
 
