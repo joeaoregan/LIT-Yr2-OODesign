@@ -24,7 +24,7 @@
 
 --- 
 
-## Yr2 Object Oriented Design Labs
+## Yr2 Object Oriented Design CA + Tutorials
 
 ### MODULE AIMS:
 * Examine the concepts of Object Oriented Software Development and the Object Oriented 
@@ -38,9 +38,12 @@ implemented
 
 ---
 
-## CA: Tic Tac Toe
+![Space Invaders UML Diagram](https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/ca-uml.png?raw=true)
+<h6>BlueJ: Space Invaders UML Diagram</h6>
 
-### What the game does:
+### CA: Tic Tac Toe
+
+#### What the game does:
 
 ---
 
@@ -107,7 +110,7 @@ X 8 O
 ```
 **Player 1 is the winner**
 
-### Steps:
+#### Steps:
 
 ---
 
@@ -126,7 +129,12 @@ Then
 7. if step 6 is 3 in a row, output the winner
 8. display gameover message & option to restart / replay game
 
+## Tutorials
+
+![Person UML Diagram](https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/person-uml.png?raw=true)
+<h6>BlueJ Person UML Diagram</h6>
+
 ## Links
 
-[JavaWithUs: Get and Set Methods](http://www.javawithus.com/tutorial/get-and-set-methods)
-[BlueJ](https://www.bluej.org/)
+- [JavaWithUs: Get and Set Methods](http://www.javawithus.com/tutorial/get-and-set-methods)
+- [BlueJ](https://www.bluej.org/)
