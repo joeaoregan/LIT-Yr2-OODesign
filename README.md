@@ -134,6 +134,15 @@ Then
 ![Person UML Diagram](https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/person-uml.png?raw=true)
 <h6>BlueJ Person UML Diagram</h6>
 
+![Student UML Diagram](https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/student-uml.png?raw=true)
+<h6>BlueJ Student UML Diagram</h6>
+
+![Hotel UML Diagram](https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/hotel-uml.png?raw=true)
+<h6>BlueJ Hotel UML Diagram</h6>
+
+![Lift System UML Diagram](https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/lift-system-uml.png?raw=true)
+<h6>BlueJ Lift System UML Diagram</h6>
+
 ## Links
 
 - [JavaWithUs: Get and Set Methods](http://www.javawithus.com/tutorial/get-and-set-methods)
