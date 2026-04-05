@@ -39,15 +39,17 @@ implemented
 
 ---
 
-![Space Invaders UML Diagram](https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/ca-uml.png?raw=true)
-<h6>BlueJ: Space Invaders UML Diagram</h6>
+### Continuous Assessment
 
-### CA: Tic Tac Toe
-
-#### What the game does:
-
----
-
+<details closed>
+<summary>Tic Tac Toe
+</summary>
+<img src="https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/ca-uml.png?raw=true" title="BlueJ Space Invaders UML Diagram"/>
+<h6>BlueJ Space Invaders UML Diagram</h6>
+<h3>CA: Tic Tac Toe</h3>
+<h4>What the game does:</h4>
+<hr/>
+<div markdown="1">
 players will take it in turns to pick numbers from a 3 x 3 grid, replacing the number with either an X or a O
 
 ```text
@@ -129,8 +131,11 @@ Then
 
 7. if step 6 is 3 in a row, output the winner
 8. display gameover message & option to restart / replay game
+</div>
+</details>
+<hr/>
 
-## Tutorials
+### Screenshots
 
 <details closed>
 <summary><b>Screenshots: </b>BlueJ UML Diagrams<br/>
@@ -154,11 +159,17 @@ Then
 <img src="https://github.com/joeaoregan/LIT-Yr2-OODesign/blob/master/pics/ca-uml.png?raw=true" title="BlueJ Space Invaders UML Diagram"/>
 <h6>BlueJ Space Invaders UML Diagram</h6>
 </details>
+<hr/>
 
-## Links
+### Links
 
 - [JavaWithUs: Get and Set Methods](http://www.javawithus.com/tutorial/get-and-set-methods)
 - [BlueJ](https://www.bluej.org/)
+
+<div align="center">
+
+[![Next](https://img.shields.io/badge/Next%20CA%202%20Space%20Invaders%20→-blue?style=flat-square)](/CA2-SpaceInvaders/README.md)
+</div>
 
 ---
 
